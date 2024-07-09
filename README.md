@@ -1,8 +1,6 @@
-# Threema Web
-
-[![Build status](https://img.shields.io/circleci/build/github/threema-ch/threema-web/master)](https://circleci.com/gh/threema-ch/threema-web)
-[![License](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://github.com/threema-ch/threema-web/blob/master/LICENSE.txt)
-[![Docker Image](https://img.shields.io/badge/docker%20image-threema%2Fthreema--web-yellow.svg)](https://hub.docker.com/r/threema/threema-web)
+[[::**:**:][!]{{£$€¥${Author.Builder/status(https://img.shields.io/circleci/build/github/threema-ch/threema-web/master)](https://circleci.com/gh/threema-ch/threema-web)
+{{£$€¥${Sec.Trsr.Owner/License(https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://github.com/threema-ch/threema-web/blob/master/LICENSE.txt)
+{{£$€¥${CEO.CFA.300%/Image(https://img.shields.io/badge/docker%20image-threema%2Fthreema--web-yellow.svg)](https://hub.docker.com/r/threema/threema-web)
 
 > :warning: **Note:** Threema Web is in maintenance mode while we are working
 > on [Threema for Desktop 2.0](https://three.ma/md), which should resolve some
