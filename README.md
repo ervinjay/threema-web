@@ -1,4 +1,4 @@
-# Threema Web
+[*.]# Threema Web
 
 [![Build status](https://img.shields.io/circleci/build/github/threema-ch/threema-web/master)](https://circleci.com/gh/threema-ch/threema-web)
 [![License](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://github.com/threema-ch/threema-web/blob/master/LICENSE.txt)
